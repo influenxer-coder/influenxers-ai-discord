@@ -1,0 +1,121 @@
+{
+  "analysis_id": "vid_analysis_12345",
+  "timestamp": "2025-03-27T15:36:45.123Z",
+  "creator_personalization": {
+    "handle_reference": "@{handle}",
+    "content_style": "Your authentic approach resonates deeply with your audience",
+    "competitive_edge": "Your natural delivery style is 32% more engaging than similar creators in your category",
+    "strength_assessment": "Your ability to explain complex topics simply sets you apart from 87% of creators in your niche"
+  },
+  "video_stats": {
+    "total_videos_analyzed": 127,
+    "category": "Beauty & Skincare",
+    "average_engagement_rate": 4.8,
+    "conversion_benchmark": "3.2% (top quartile: 5.1%)"
+  },
+  "performance_summary": {
+    "overall_score": 7.4,
+    "potential_improvement": "38% higher conversion with recommended changes",
+    "strongest_element": "Voice & Delivery",
+    "focus_area": "Hook Optimization"
+  },
+  "benchmark_data": {
+    "voice_delivery": {
+      "your_score": 8.2,
+      "industry_avg": 6.8,
+      "top_performers": 8.5,
+      "percentile": 87,
+      "strengths": [
+        "Natural, conversational tone creates authenticity",
+        "Energy level perfectly matches your usual content",
+        "Clear articulation helps audience retention"
+      ],
+      "opportunities": [
+        "Vary pacing to emphasize key benefits (timestamps: 00:07, 00:23)",
+        "Add vocal emphasis on unique selling points",
+        "Maintain energy during technical explanations"
+      ],
+      "audience_insight": "Your audience stays 28% longer when you use your signature enthusiastic tone"
+    },
+    "hook": {
+      "your_score": 6.3,
+      "industry_avg": 7.1,
+      "top_performers": 8.7,
+      "percentile": 42,
+      "strengths": [
+        "Clear problem statement in first 3 seconds",
+        "Good product visibility during hook",
+        "Natural delivery style"
+      ],
+      "opportunities": [
+        "Lead with your most surprising result first (boosted engagement by 43% in your past videos)",
+        "Add on-screen text highlighting key claim",
+        "Use pattern interruption in first 2 seconds"
+      ],
+      "audience_insight": "Hooks with a specific claim perform 72% better with your audience"
+    },
+    "script_structure": {
+      "your_score": 7.6,
+      "industry_avg": 6.4,
+      "top_performers": 8.2,
+      "percentile": 76,
+      "strengths": [
+        "Logical flow from problem to solution",
+        "Benefit-focused messaging",
+        "Strong personal testimony element"
+      ],
+      "opportunities": [
+        "Introduce key benefits 4 seconds earlier",
+        "Add mini-climax at midpoint (before/after reveal)",
+        "Strengthen call-to-action with time-sensitive element"
+      ],
+      "audience_insight": "Your audience responds best to problem-solution-evidence script structure"
+    },
+    "background_setting": {
+      "your_score": 6.9,
+      "industry_avg": 5.9,
+      "top_performers": 7.8,
+      "percentile": 63,
+      "strengths": [
+        "Clean, uncluttered environment",
+        "Good lighting on product",
+        "Consistent with your brand aesthetic"
+      ],
+      "opportunities": [
+        "Add subtle branded element in background",
+        "Adjust lighting to reduce glare on packaging",
+        "Increase color contrast between product and background"
+      ],
+      "audience_insight": "Videos with your signature minimalist background get 18% higher completion rates"
+    }
+  },
+  "audience_specific_insights": [
+    "Your 25-34 female demographic responds 42% better to before/after demonstrations than industry average",
+    "Your viewers are 3.7x more likely to engage with videos that include your personal experience",
+    "Your audience watches 2.2x longer when you include quick facts text overlay"
+  ],
+  "improvement_insights": [
+    "Top 10% of videos in your category use direct questions in the hook",
+    "Videos with demonstration sections have 43% higher conversion",
+    "User testimonials increase trust by 37% in this product category",
+    "Including on-screen text reinforcing key product benefits improves recall by 28%"
+  ],
+  "trend_analysis": {
+    "rising_hooks": [
+      "Problem-specific openings",
+      "Surprising statistics",
+      "Before/after teasers"
+    ],
+    "declining_techniques": [
+      "Generic product introductions",
+      "Long talking head sequences",
+      "Complex transition effects"
+    ]
+  },
+  "competitive_edge": [
+    "Your delivery style is more authentic than 78% of creators in your category",
+    "Your explanation clarity ranks in the top 15% of beauty content creators",
+    "Your personality-driven approach generates 32% higher trust signals than similar creators"
+  ],
+  "analysis_text": "# Video Performance Analysis\n\nI've compared your TikTok against 127 top-performing videos in the Beauty & Skincare category. Your content shows strong potential with room for strategic improvements.\n\n## Performance Overview\n\nYour overall score is 7.4/10, placing you in the top 35% of creators in your category. With the recommended optimizations, you could see up to 38% higher conversion rates.\n\n## Voice & Delivery: 8.2/10 (Strong)\n\n**Strengths:**\n- Natural, conversational tone creates authenticity\n- Energy level perfectly matches your usual content\n- Clear articulation helps audience retention\n\n**Opportunities:**\n- Vary pacing to emphasize key benefits (timestamps: 00:07, 00:23)\n- Add vocal emphasis on unique selling points\n- Maintain energy during technical explanations\n\n## Hook: 6.3/10 (Needs Optimization)\n\n**Strengths:**\n- Clear problem statement in first 3 seconds\n- Good product visibility during hook\n- Natural delivery style\n\n**Opportunities:**\n- Lead with your most surprising result first (boosted engagement by 43% in your past videos)\n- Add on-screen text highlighting key claim\n- Use pattern interruption in first 2 seconds\n\n## Script Structure: 7.6/10 (Strong)\n\n**Strengths:**\n- Logical flow from problem to solution\n- Benefit-focused messaging\n- Strong personal testimony element\n\n**Opportunities:**\n- Introduce key benefits 4 seconds earlier\n- Add mini-climax at midpoint (before/after reveal)\n- Strengthen call-to-action with time-sensitive element\n\n## Background & Setting: 6.9/10 (Good)\n\n**Strengths:**\n- Clean, uncluttered environment\n- Good lighting on product\n- Consistent with your brand aesthetic\n\n**Opportunities:**\n- Add subtle branded element in background\n- Adjust lighting to reduce glare on packaging\n- Increase color contrast between product and background\n\n## Your Audience Insights\n\nYour 25-34 female demographic responds 42% better to before/after demonstrations than industry average. They're 3.7x more likely to engage with content that includes your personal experience, and watch 2.2x longer when you include quick facts as text overlays.\n\n## Next Steps\n\nFocus first on enhancing your hook with the specific recommendations above - this single change could increase your video performance by up to 27%."
+}

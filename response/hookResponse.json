@@ -1,0 +1,63 @@
+{
+  "response_id": "hook_12345",
+  "timestamp": "2025-03-27T15:30:45.123Z",
+  "creator_personalization": {
+    "handle_reference": "@{handle}",
+    "content_style": "Your authentic voice with subtle humor resonates deeply with your audience",
+    "audience_insight": "Your 18-34 female demographic responds strongly to transformation stories",
+    "success_pattern": "Your top-performing hooks create a knowledge gap in the first 2 seconds"
+  },
+  "metadata": {
+    "product_category": "Skincare",
+    "content_type": "Hook",
+    "performance_metrics": {
+      "estimated_view_retention": 72,
+      "estimated_engagement_rate": 4.3,
+      "conversion_potential": "High"
+    },
+    "trend_analysis": {
+      "rising_hooks": [
+        "Direct questions to viewer",
+        "Unexpected facts/statistics",
+        "Before/after comparisons"
+      ]
+    }
+  },
+  "hook_options": [
+    {
+      "text": "I tested this $20 moisturizer against the $200 one everyone's using... and my skin couldn't tell the difference",
+      "style": "Value revelation",
+      "predicted_engagement": "37% higher than average",
+      "strength": "Price comparison creates immediate interest"
+    },
+    {
+      "text": "The one ingredient dermatologists say your moisturizer NEEDS to have (and this $20 one has twice the amount)",
+      "style": "Expert authority",
+      "predicted_engagement": "42% higher than average",
+      "strength": "Appeals to your audience's interest in skincare science"
+    },
+    {
+      "text": "I found a moisturizer that works so fast, you can literally see the difference in 10 seconds...",
+      "style": "Immediate result",
+      "predicted_engagement": "29% higher than average",
+      "strength": "Speed of results creates urgency and curiosity"
+    }
+  ],
+  "visual_direction": {
+    "hook_1_visuals": "Close-up of both products side by side, then surprised reaction",
+    "hook_2_visuals": "Ingredient list highlight animation, then product reveal",
+    "hook_3_visuals": "Split-screen before/after with timestamp overlay"
+  },
+  "success_factors": [
+    "Hooks align with your authentic, straightforward review style",
+    "Each hook creates curiosity within first 3 seconds",
+    "Price comparison addresses your audience's primary interest"
+  ],
+  "content_guidance": {
+    "key_talking_points": [
+      "24-hour hydration results",
+      "Non-greasy formula feel",
+      "Clean ingredient list benefits"
+    ]
+  }
+}

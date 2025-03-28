@@ -1,0 +1,115 @@
+{
+  "response_id": "script_67890",
+  "timestamp": "2025-03-27T15:31:45.123Z",
+  "creator_personalization": {
+    "handle_reference": "@{handle}",
+    "content_style": "Your authentic voice with natural humor resonates perfectly with your audience",
+    "audience_insight": "Your 18-34 female demographic responds strongly to personal storytelling",
+    "success_pattern": "Your highest converting videos follow a problem-solution-evidence format"
+  },
+  "metadata": {
+    "product_category": "Skincare",
+    "content_type": "Full Script",
+    "script_structure": "Hook > Problem > Solution > Evidence > CTA",
+    "performance_metrics": {
+      "estimated_watch_time": "78%",
+      "estimated_engagement_rate": 5.1,
+      "estimated_conversion_potential": "Medium-High"
+    },
+    "trend_analysis": {
+      "rising_script_elements": [
+        "Personal testimonial segments",
+        "Quick-cut product demonstrations",
+        "Text overlay for key benefits"
+      ],
+      "declining_elements": [
+        "Extended talking head segments",
+        "Technical product specifications",
+        "Multiple calls to action"
+      ]
+    }
+  },
+  "script_content": {
+    "hook": "I tried the viral $20 moisturizer that's all over your FYP for 30 days... and I have THOUGHTS.",
+    "segments": [
+      {
+        "type": "intro",
+        "script": "If you've been seeing this moisturizer everywhere, there's a reason. Claims to hydrate for 48 hours, work for all skin types, and cost less than your lunch? Had to put it to the test.",
+        "visual_direction": "Hold up product packaging",
+        "on_screen_text": "30 DAY TEST",
+        "performance_note": "Quick product reveal performs 38% better with your audience",
+        "audience_reaction": "High curiosity trigger - 72% watch-through point"
+      },
+      {
+        "type": "problem",
+        "script": "My skin gets so dry in winter that it literally flakes off. I've tried $200 creams that didn't fix it. So I was skeptical about this one.",
+        "visual_direction": "Close up of dry skin patches",
+        "on_screen_text": "THE STRUGGLE IS REAL",
+        "performance_note": "Personal problem statement increases relatability by 47%",
+        "audience_reaction": "High empathy response from your demographic"
+      },
+      {
+        "type": "solution",
+        "script": "The texture is surprisingly lightweight but it absorbs immediately. I applied morning and night, and from day one, no more tightness.",
+        "visual_direction": "Applying product, show texture",
+        "on_screen_text": "IMMEDIATE RELIEF",
+        "performance_note": "Texture demonstration is key for your viewers",
+        "audience_reaction": "Highest engagement point - save for first 15 seconds"
+      },
+      {
+        "type": "evidence",
+        "script": "By week two, the difference was CLEAR. Look at this before and after. No filter, same lighting, just 14 days apart.",
+        "visual_direction": "Side by side before/after",
+        "on_screen_text": "DAY 1 vs. DAY 14",
+        "performance_note": "Before/after drives 63% higher conversion with your audience",
+        "audience_reaction": "Critical belief-building moment - emphasize authenticity"
+      },
+      {
+        "type": "cta",
+        "script": "Link in bio if you want to try it. And use code CREATOR20 for 20% off. Would you try this? Comment below!",
+        "visual_direction": "Hold product with satisfied expression",
+        "on_screen_text": "CODE: CREATOR20",
+        "performance_note": "Question-based CTA increases comments by 78%",
+        "audience_reaction": "Engagement spike opportunity - deliver with enthusiasm"
+      }
+    ],
+    "alternative_hooks": [
+      "This $20 moisturizer fixed my winter skin better than the $200 one I used to swear by...",
+      "POV: You wake up with skin so hydrated you think you're dreaming..."
+    ]
+  },
+  "success_factors": [
+    "Script matches your authentic, relatable style",
+    "Structure follows your highest-performing content pattern",
+    "Balance of personal story with product benefits aligns with audience preference"
+  ],
+  "content_guidance": {
+    "key_messaging_points": [
+      "48-hour hydration results",
+      "Works for all skin types",
+      "Affordable luxury alternative"
+    ],
+    "emotional_triggers": [
+      "Skepticism → Surprise",
+      "Frustration → Relief",
+      "Curiosity → Satisfaction"
+    ],
+    "authenticity_notes": [
+      "Share your genuine initial skepticism",
+      "Be specific about your personal results",
+      "Maintain your signature casual tone throughout"
+    ]
+  },
+  "visual_direction": {
+    "filming_tips": [
+      "Use natural lighting near window (matches your aesthetic)",
+      "Keep background minimal with one branded element",
+      "Film texture close-up in 4K for detail"
+    ],
+    "editing_suggestions": [
+      "Quick cuts between segments (your signature pace)",
+      "Zoom transition to product reveal",
+      "Text overlays in your brand font"
+    ]
+  }
+}

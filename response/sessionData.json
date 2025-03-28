@@ -1,0 +1,16 @@
+{
+  "1108515078036258856": {
+    "onboardingStep": 4,
+    "name": null,
+    "lastIntent": "analyze",
+    "awaitingBriefConfirmation": false,
+    "inputs": {
+      "tiktokHandle": "amritlal",
+      "instagramHandle": "no",
+      "brief": "https://ibspot.com/us/products/ddg-moist-care-cleansing-balm-oat-aroma-50ml?variant_id=59226091"
+    },
+    "greeted": true,
+    "awaitingUpdate": null,
+    "awaitingVideoUrl": false
+  }
+}
